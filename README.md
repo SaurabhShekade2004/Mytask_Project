@@ -11,7 +11,7 @@ Users can register, login, create tasks, edit them, mark complete, detect overdu
 ![Sign Up](frontend/assests/signup.png)
 
 ### New User
-![New User Created](frontend/assests/new-user-create.png)
+![New User Created](frontend/assests/new-user-created.png)
 
 ### Frontend(Landing) Page 
 ![Landing Page](frontend/assests/landing-page.png)
@@ -131,6 +131,3 @@ CREATE TABLE tasks (
   FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
 );
 ```
-
-## 🤝 Contributions
-Pull requests are welcome.
