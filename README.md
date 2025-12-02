@@ -89,7 +89,7 @@ frontend/.env
 
 Clone repo:
 ```
-git clone <repo-url>
+git clone <https://github.com/SaurabhShekade2004/Mytask_Project.git>
 cd MyTasks
 ```
 
