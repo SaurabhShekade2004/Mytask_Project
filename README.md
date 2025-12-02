@@ -1,8 +1,5 @@
 # 🚀 MyTasks – Personal Task Manager
 
-A full-stack Task Management Application built using React, Node.js, Express, and MySQL.  
-Users can register, login, create tasks, edit them, mark complete, detect overdue tasks, and manage their personal to-do workflow securely.
-
 ## 📸 Preview
 ### Initial Databse
 ![Initial Database](frontend/assests/initail-db.png)
