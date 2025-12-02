@@ -86,7 +86,7 @@ frontend/.env
 
 Clone repo:
 ```
-git clone <https://github.com/SaurabhShekade2004/Mytask_Project.git>
+git clone https://github.com/SaurabhShekade2004/Mytask_Project.git
 cd MyTasks
 ```
 
