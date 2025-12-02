@@ -7,15 +7,14 @@ Users can register, login, create tasks, edit them, mark complete, detect overdu
 ### Initial Databse
 ![Initial Database](frontend/assests/initail-db.png)
 
-### Frontend(Landing) Page 
-![Landing Page](frontend/assests/landing-page.png)
-
 ### Signup Page
 ![Sign Up](frontend/assests/signup.png)
 
 ### New User
-![New User Created](frontend/assests/new-user-create.png
-)
+![New User Created](frontend/assests/new-user-create.png)
+
+### Frontend(Landing) Page 
+![Landing Page](frontend/assests/landing-page.png)
 
 ### Acount Created
 ![After Account Creation](frontend/assests/after-account-create.png)
