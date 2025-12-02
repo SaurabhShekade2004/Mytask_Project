@@ -4,41 +4,41 @@ A full-stack Task Management Application built using React, Node.js, Express, an
 Users can register, login, create tasks, edit them, mark complete, detect overdue tasks, and manage their personal to-do workflow securely.
 
 ## 📸 Preview
-###Initial Databse
+### Initial Databse
 ![Initial Database](frontend/assests/initail-db.png)
 
-###Frontend(Landing) Page 
+### Frontend(Landing) Page 
 ![Landing Page](frontend/assests/landing-page.png)
 
-###Signup Page
+### Signup Page
 ![Sign Up](frontend/assests/signup.png)
 
-###New User
+### New User
 ![New User Created](frontend/assests/new-user-create.png
 )
 
-###Acount Created
+### Acount Created
 ![After Account Creation](frontend/assests/after-account-create.png)
 
-###Profile Updated
+### Profile Updated
 ![Profile Update](frontend/assests/profile-update.png)
 
 ###After Logging out
 ![After Logout](frontend/assests/after-logout.png)
 
-##Tasks
+## Tasks
 ![Tasks](frontend/assests/tasks.png)
 
-###Tasks Completed
+### Tasks Completed
 ![Task Completed](frontend/assests/task-completed.png)
 
-###Tasks Updated
+### Tasks Updated
 ![Task Updated](frontend/assests/task-updated.png)
 
-###Tasks Deleed
+### Tasks Deleed
 ![Delete Task](frontend/assests/delete-task.png)
 
-###Dark Mode
+### Dark Mode
 ![Dark Mode](frontend/assests/dark-mode.png)
 
 
