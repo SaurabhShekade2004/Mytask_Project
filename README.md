@@ -4,7 +4,7 @@ A full-stack Task Management Application built using React, Node.js, Express, an
 Users can register, login, create tasks, edit them, mark complete, detect overdue tasks, and manage their personal to-do workflow securely.
 
 ## 📸 Preview
-![Initial Database](frontend/assets/initail-db.png)
+![Initial Database](Mytask_Project/frontend/assets/initail-db.png)
 ![Landing Page](assets/landing-page.png)
 ![Sign Up](assets/signup.png)
 ![New User Created](assets/new-user-create.png
