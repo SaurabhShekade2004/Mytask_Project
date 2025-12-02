@@ -9,7 +9,7 @@ Users can register, login, create tasks, edit them, mark complete, detect overdu
 ![Sign Up](assets/signup.png)
 ![New User Created](assets/new-user-create.png
 )
-![After Account Creation](assets/after-account-create.png)
+![After Account Creation](frontend/assests/after-account-create.png)
 ![Profile Update](assets/profile-update.png)
 ![After Logout](assets/after-logout.png)
 ![Tasks](assets/tasks.png)
