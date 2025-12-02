@@ -4,19 +4,42 @@ A full-stack Task Management Application built using React, Node.js, Express, an
 Users can register, login, create tasks, edit them, mark complete, detect overdue tasks, and manage their personal to-do workflow securely.
 
 ## 📸 Preview
+###Initial Databse
 ![Initial Database](frontend/assests/initail-db.png)
-![Landing Page](frontend/assets/landing-page.png)
-![Sign Up](frontend/assets/signup.png)
-![New User Created](frontend/assets/new-user-create.png
+
+###Frontend(Landing) Page 
+![Landing Page](frontend/assests/landing-page.png)
+
+###Signup Page
+![Sign Up](frontend/assests/signup.png)
+
+###New User
+![New User Created](frontend/assests/new-user-create.png
 )
+
+###Acount Created
 ![After Account Creation](frontend/assests/after-account-create.png)
-![Profile Update](frontend/assets/profile-update.png)
+
+###Profile Updated
+![Profile Update](frontend/assests/profile-update.png)
+
+###After Logging out
 ![After Logout](frontend/assests/after-logout.png)
-![Tasks](frontend/assets/tasks.png)
-![Task Completed](frontend/assets/task-completed.png)
-![Task Updated](frontend/assets/task-updated.png)
-![Delete Task](frontend/assets/delete-task.png)
-![Task Deleted](frontend/assets/task-delted.png)
+
+##Tasks
+![Tasks](frontend/assests/tasks.png)
+
+###Tasks Completed
+![Task Completed](frontend/assests/task-completed.png)
+
+###Tasks Updated
+![Task Updated](frontend/assests/task-updated.png)
+
+###Tasks Deleed
+![Delete Task](frontend/assests/delete-task.png)
+
+###Dark Mode
+![Dark Mode](frontend/assests/dark-mode.png)
 
 
 ## 🧩 Key Features
