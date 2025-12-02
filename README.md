@@ -10,7 +10,7 @@ Users can register, login, create tasks, edit them, mark complete, detect overdu
 ### Signup Page
 ![Sign Up](frontend/assests/signup.png)
 
-### New User
+### New User updated in DB
 ![New User Created](frontend/assests/new-user-created.png)
 
 ### Frontend(Landing) Page 
@@ -22,7 +22,7 @@ Users can register, login, create tasks, edit them, mark complete, detect overdu
 ### Profile Updated
 ![Profile Update](frontend/assests/profile-update.png)
 
-###After Logging out
+### After Logging out
 ![After Logout](frontend/assests/after-logout.png)
 
 ## Tasks
