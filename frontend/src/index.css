@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  @apply font-sans bg-slate-100 text-slate-900;
+}
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(100, 100, 100, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 100, 100, 0.5);
+}
+
+
+.dark body {
+  @apply bg-slate-900 text-slate-100;
+}
+
+/* Smooth Theme Switching */
+* {
+  @apply transition-colors duration-200;
+}
+
+/* Glass card styling */
+.glass-card {
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+.glass-card {
+  @apply rounded-3xl shadow-glass border border-white/40 backdrop-blur-xl;
+  background: radial-gradient(
+    circle at top left,
+    rgba(255, 255, 255, 0.85),
+    rgba(148, 163, 184, 0.4)
+  );
+}
+
+.dark .glass-card {
+  background: radial-gradient(
+    circle at top left,
+    rgba(30, 64, 175, 0.9),
+    rgba(15, 23, 42, 0.9)
+  );
+}
